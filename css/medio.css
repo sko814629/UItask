@@ -1,0 +1,10 @@
+/* Mobile  */
+@media (max-width: 768px) {
+    #hero {
+        padding: 50px 0;
+    }
+    .navbar-brand img{
+        width: 120px;
+        
+    }
+}
